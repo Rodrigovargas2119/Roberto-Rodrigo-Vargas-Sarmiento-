@@ -106,7 +106,6 @@
         <ul>
            <li>Aplicacion para la compra y ventas de autos.</li>
         </ul>
-        
     </div>
 
     <div class="section">
